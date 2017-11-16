@@ -1,5 +1,5 @@
 {
-    "name": "han/phpldap",
+    "name": "hanguangchao/phpldap",
     "description": "A Ldap client for PHP on top of PHP's ldap extension.",
     "type": "library",
     "require": {
