@@ -1,0 +1,19 @@
+{
+    "name": "han/phpldap",
+    "description": "A Ldap client for PHP on top of PHP's ldap extension.",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "ext-ldap": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hanguangchao",
+            "email": "hanguangchao@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "phpldap": "src/" }
+    },
+}
